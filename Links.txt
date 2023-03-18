@@ -1,0 +1,8 @@
+https://en.bem.info/methodology/
+https://bradfrost.com/blog/post/atomic-web-design/
+https://developer.mozilla.org/es/docs/Web/CSS/flex-wrap#:~:text=flex%2Dwrap-,Resumen,cual%20ser%C3%A1n%20apilados%20los%20elementos
+https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos
+https://developer.mozilla.org/es/docs/Web/CSS/Shorthand_properties	shorthand
+https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design	diseños responsivos
+https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=es-419Link	tamaño ventana
+https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm?hl=es-419	Herramienta de diseño responsivo
